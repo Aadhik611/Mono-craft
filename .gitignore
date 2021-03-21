@@ -1,4 +1,4 @@
-python\vscode
-python\venv
+python/vscode
+python/venv
 
-python\.vscode/*
+python/.vscode/*
